@@ -4512,3 +4512,9 @@ Entries:
       message: Technical backing for engraving tools.
   id: 477
   time: '2026-06-04T04:14:33.0000000+00:00'
+- author: Typheus
+  changes:
+    - type: Tweak
+      message: AI Remote Devices now incorporates shuntable borgs
+  id: 478
+  time: '2026-06-07T05:23:06.0000000+00:00'

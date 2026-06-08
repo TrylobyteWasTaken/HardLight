@@ -7,32 +7,62 @@ accent-skaven-words-replace-2 = no-no!
 accent-skaven-words-3 = beg
 accent-skaven-words-replace-3 = beg-plead
 
+accent-skaven-words-94 = begging
+accent-skaven-words-replace-94 = beg-pleading
+
 accent-skaven-words-4 = swear
 accent-skaven-words-replace-4 = oath-swear
+
+accent-skaven-words-95 = swore
+accent-skaven-words-replace-95 = oath-swore
 
 accent-skaven-words-5 = knife
 accent-skaven-words-replace-5 = knife-blade
 
+accent-skaven-words-96 = knives
+accent-skaven-words-replace-96 = knife-blades
+
 accent-skaven-words-6 = spear
 accent-skaven-words-replace-6 = spear-stick
+
+accent-skaven-words-97 = spears
+accent-skaven-words-replace-97 = spear-sticks
+
+accent-skaven-words-98 = spearing
+accent-skaven-words-replace-98 = spear-sticking
 
 accent-skaven-words-7 = gun
 accent-skaven-words-replace-7 = gun-weapon
 
+accent-skaven-words-99 = guns
+accent-skaven-words-replace-99 = gun-weapons
+
 accent-skaven-words-8 = sword
 accent-skaven-words-replace-8 = sword-weapon
+
+accent-skaven-words-100 = swords
+accent-skaven-words-replace-100 = sword-weapons
 
 accent-skaven-words-9 = chair
 accent-skaven-words-replace-9 = chair-seat
 
+accent-skaven-words-101 = chairs
+accent-skaven-words-replace-101 = chair-seats
+
 accent-skaven-words-10 = run
 accent-skaven-words-replace-10 = run-flee
+
+accent-skaven-words-102 = running
+accent-skaven-words-replace-102 = run-fleeing
 
 accent-skaven-words-11 = escape
 accent-skaven-words-replace-11 = escape-run
 
 accent-skaven-words-12 = retreat
 accent-skaven-words-replace-12 = retreat-flee
+
+accent-skaven-words-103 = retreating
+accent-skaven-words-replace-103 = retreat-fleeing
 
 accent-skaven-words-13 = me
 accent-skaven-words-replace-13 = me-me
@@ -61,17 +91,29 @@ accent-skaven-words-replace-20 = give-take
 accent-skaven-words-21 = move
 accent-skaven-words-replace-21 = scurry-move
 
+accent-skaven-words-104 = moving
+accent-skaven-words-replace-104 = scurry-moving
+
 accent-skaven-words-22 = lots
 accent-skaven-words-replace-22 = much-lots
 
 accent-skaven-words-23 = large
 accent-skaven-words-replace-23 = big-huge
 
+accent-skaven-words-105 = larger
+accent-skaven-words-replace-105 = bigger-huger
+
 accent-skaven-words-24 = big
 accent-skaven-words-replace-24 = big-big
 
 accent-skaven-words-25 = eat
 accent-skaven-words-replace-25 = take-eat
+
+accent-skaven-words-106 = eating
+accent-skaven-words-replace-106 = take-eating
+
+accent-skaven-words-107 = ate
+accent-skaven-words-replace-107 = took-ate
 
 accent-skaven-words-26 = happy
 accent-skaven-words-replace-26 = happy-glad
@@ -91,14 +133,26 @@ accent-skaven-words-replace-30 = place-spot
 accent-skaven-words-31 = see
 accent-skaven-words-replace-31 = see-spot
 
+accent-skaven-words-108 = seeing
+accent-skaven-words-replace-108 = see-spotting
+
 accent-skaven-words-32 = ship
 accent-skaven-words-replace-32 = shuttle-place
+
+accent-skaven-words-109 = ships
+accent-skaven-words-replace-109 = shuttle-places
 
 accent-skaven-words-33 = shuttle
 accent-skaven-words-replace-33 = ship-thing
 
+accent-skaven-words-110 = shuttles
+accent-skaven-words-replace-110 = ship-things
+
 accent-skaven-words-34 = food
 accent-skaven-words-replace-34 = food-snack
+
+accent-skaven-words-111 = foods
+accent-skaven-words-replace-111 = food-snacks
 
 accent-skaven-words-35 = hungry
 accent-skaven-words-replace-35 = hungry-starved
@@ -108,6 +162,9 @@ accent-skaven-words-replace-36 = tired-sleep
 
 accent-skaven-words-37 = die
 accent-skaven-words-replace-37 = die-die
+
+accent-skaven-words-112 = died
+accent-skaven-words-replace-112 = died-dead
 
 accent-skaven-words-38 = bird
 accent-skaven-words-replace-38 = bird-thing
@@ -121,11 +178,20 @@ accent-skaven-words-replace-40 = cat-thing
 accent-skaven-words-41 = seek
 accent-skaven-words-replace-41 = seek-find
 
+accent-skaven-words-113 = seeking
+accent-skaven-words-replace-113 = seek-finding
+
 accent-skaven-words-42 = search
 accent-skaven-words-replace-42 = look-search
 
+accent-skaven-words-114 = searching
+accent-skaven-words-replace-114 = look-searching
+
 accent-skaven-words-43 = look
 accent-skaven-words-replace-43 = look-see
+
+accent-skaven-words-115 = looking
+accent-skaven-words-replace-115 = look-seeing
 
 accent-skaven-words-44 = mine
 accent-skaven-words-replace-44 = mine-mine
@@ -160,6 +226,9 @@ accent-skaven-words-replace-53 = computer-thing
 accent-skaven-words-54 = station
 accent-skaven-words-replace-54 = station-place
 
+accent-skaven-words-116 = stations
+accent-skaven-words-replace-116 = station-places
+
 accent-skaven-words-55 = vulp
 accent-skaven-words-replace-55 = fox-thing
 
@@ -190,6 +259,12 @@ accent-skaven-words-replace-63 = dark-place
 accent-skaven-words-64 = smell
 accent-skaven-words-replace-64 = sniff-smell
 
+accent-skaven-words-117 = smelling
+accent-skaven-words-replace-117 = sniff-smelling
+
+accent-skaven-words-118 = smells
+accent-skaven-words-replace-118 = sniff-smells
+
 accent-skaven-words-65 = snake
 accent-skaven-words-replace-65 = slither-snake
 
@@ -217,6 +292,9 @@ accent-skaven-words-replace-72 = come-follow
 accent-skaven-words-73 = fuck
 accent-skaven-words-replace-73 = feck
 
+accent-skaven-words-119 = fucking
+accent-skaven-words-replace-119 = fecking   
+
 accent-skaven-words-74 = god
 accent-skaven-words-replace-74 = great horned one
 
@@ -229,14 +307,26 @@ accent-skaven-words-replace-76 = creature-thing
 accent-skaven-words-77 = creature
 accent-skaven-words-replace-77 = monster-thing
 
+accent-skaven-words-120 = creatures
+accent-skaven-words-replace-120 = monster-things
+
 accent-skaven-words-78 = anomaly
 accent-skaven-words-replace-78 = confusing-thing
+
+accent-skaven-words-121 = anomalies
+accent-skaven-words-replace-121 = confusing-things
 
 accent-skaven-words-79 = aroma
 accent-skaven-words-replace-79 = stink-smell
 
+accent-skaven-words-122 = aromas
+accent-skaven-words-replace-122 = stink-smells
+
 accent-skaven-words-80 = xeno
 accent-skaven-words-replace-80 = alien-thing
+
+accent-skaven-words-123 = xenos
+accent-skaven-words-replace-123 = alien-things
 
 accent-skaven-words-81 = hair
 accent-skaven-words-replace-81 = fur
@@ -244,8 +334,20 @@ accent-skaven-words-replace-81 = fur
 accent-skaven-words-82 = finger
 accent-skaven-words-replace-82 = claw
 
+accent-skaven-words-124 = fingers
+accent-skaven-words-replace-124 = claws
+
+accent-skaven-words-125 = fingering
+accent-skaven-words-replace-125 = clawing
+
 accent-skaven-words-83 = toe
 accent-skaven-words-replace-83 = claw
+
+accent-skaven-words-126 = toes
+accent-skaven-words-replace-126 = claws
+
+accent-skaven-words-127 = toeing
+accent-skaven-words-replace-127 = clawing
 
 accent-skaven-words-84 = hand
 accent-skaven-words-replace-84 = paw
@@ -256,8 +358,17 @@ accent-skaven-words-replace-85 = foot-paw
 accent-skaven-words-86 = idea
 accent-skaven-words-replace-86 = thought-plan
 
+accent-skaven-words-128 = ideas
+accent-skaven-words-replace-128 = thought-plans
+
 accent-skaven-words-87 = plan
 accent-skaven-words-replace-87 = plan-scheme
+
+accent-skaven-words-129 = plans
+accent-skaven-words-replace-129 = plan-schemes
+
+accent-skaven-words-130 = thinking
+accent-skaven-words-replace-130 = thought-planning
 
 accent-skaven-words-88 = explosion
 accent-skaven-words-replace-88 = whoosh-flame
@@ -271,9 +382,18 @@ accent-skaven-words-replace-90 = doom-rocket
 accent-skaven-words-91 = singulo
 accent-skaven-words-replace-91 = suck-sphere
 
+accent-skaven-words-131 = singularity
+accent-skaven-words-replace-131 = suck-sphere-thing
+
 accent-skaven-words-92 = singuloose
 accent-skaven-words-replace-92 = suckloose
 
 accent-skaven-words-93 = supermatter
 accent-skaven-words-replace-93 = warp-stone
+
+accent-skaven-words-132 = supermatters
+accent-skaven-words-replace-132 = warp-stones
+
+accent-skaven-words-133 = SM
+accent-skaven-words-replace-133 = warp-stone
 
