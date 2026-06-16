@@ -55,6 +55,7 @@ using Robust.Shared.Timing;
 using Robust.Shared.Utility;
 using YamlDotNet.Core;
 using YamlDotNet.RepresentationModel;
+using Content.Shared.Ghost; // Hardlight
 
 namespace Content.Server._NF.Shipyard.Systems;
 
@@ -351,17 +352,25 @@ public sealed class ShipyardGridSaveSystem : EntitySystem
             return TrackedShipSaveResult.AlreadyInProgress;
         }
 
+        // Hardlight start
         var mindQuery = _entityManager.EntityQueryEnumerator<MindContainerComponent, TransformComponent>();
         while (mindQuery.MoveNext(out var ent, out var mindContainer, out var xform))
         {
             if (xform.GridUid != gridUid)
                 continue;
-            if (mindContainer.HasMind)
-            {
-                _popup.PopupCursor($"Failed to save ship; {Name(ent)} detected on board.", playerSession);
-                return TrackedShipSaveResult.Failed;
-            }
+
+            // Skip entities without minds
+            if (!mindContainer.HasMind)
+                continue;
+
+            // Skip ghosts
+            if (HasComp<GhostComponent>(ent))
+                continue;
+
+            _popup.PopupCursor($"Failed to save ship; {Name(ent)} detected on board.", playerSession);
+            return TrackedShipSaveResult.Failed;
         }
+        // Hardlight end
 
         if (!TryBuildShipSaveYaml(gridUid, shipName, out var yaml))
             return TrackedShipSaveResult.Failed;
